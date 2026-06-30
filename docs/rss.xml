@@ -1,3 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>2025013111陈一丹的博客</title><link>https://Cq-dan.github.io</link><description>continuous learning</description><copyright>2025013111陈一丹的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Cq-dan.github.io</link></image><lastBuildDate>Tue, 30 Jun 2026 06:37:30 +0000</lastBuildDate><managingEditor>2025013111陈一丹的博客</managingEditor><ttl>60</ttl><webMaster>2025013111陈一丹的博客</webMaster><item><title>Cq-dan测试</title><link>https://Cq-dan.github.io/post/Cq-dan-ce-shi.html</link><description>你好
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>2025013111陈一丹的博客</title><link>https://Cq-dan.github.io</link><description>continuous learning</description><copyright>2025013111陈一丹的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Cq-dan.github.io</link></image><lastBuildDate>Tue, 30 Jun 2026 07:50:54 +0000</lastBuildDate><managingEditor>2025013111陈一丹的博客</managingEditor><ttl>60</ttl><webMaster>2025013111陈一丹的博客</webMaster><item><title>Markdown测试</title><link>https://Cq-dan.github.io/post/Markdown-ce-shi.html</link><description>#一级标题
+##二级标题
+###三级标题
+`a,b=1,2`
+```python
+import math
+s='北京信息科技大学'
+print(len(s))
+print(s)
+
+a,b='北京','好地方'
+a,b=b,a
+print(a,b)
+```。</description><guid isPermaLink="true">https://Cq-dan.github.io/post/Markdown-ce-shi.html</guid><pubDate>Tue, 30 Jun 2026 07:50:31 +0000</pubDate></item><item><title>Cq-dan测试</title><link>https://Cq-dan.github.io/post/Cq-dan-ce-shi.html</link><description>你好
 Hello World。</description><guid isPermaLink="true">https://Cq-dan.github.io/post/Cq-dan-ce-shi.html</guid><pubDate>Tue, 30 Jun 2026 06:25:48 +0000</pubDate></item></channel></rss>
